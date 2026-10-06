@@ -67,6 +67,8 @@ This provides:
 
 Corner plots are used to visualize the resulting posterior distributions.
 
+The MCMC results showed that the primary transit parameters were more tightly constrained than the nonlinear limb-darkening coefficients, which exhibited broader posterior distributions and stronger parameter correlations. The MCMC analysis is therefore used as an exploratory estimate of parameter uncertainty rather than a precision determination of all fitted parameters.
+
 ## Results
 
 ### TrES-2b
