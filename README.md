@@ -146,10 +146,11 @@ Then open `transiting_exoplanet_analysis.ipynb` in Jupyter Notebook or VS Code w
 
 ## References
 
-The transit modeling approach is based on methods described in:
+The transit modeling approach is based on:
 
 - Mandel, K. & Agol, E. (2002), *Analytic Light Curves for Planetary Transit Searches*
-- Holman, M. J. et al. (2007), observational transit analysis of TrES-2
+
+The TrES-2b and XO-1b observational datasets used in this analysis were obtained from NASA exoplanet data resources.
 
 ## Project Note
 
