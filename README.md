@@ -150,6 +150,10 @@ The transit modeling approach is based on:
 
 - Mandel, K. & Agol, E. (2002), *Analytic Light Curves for Planetary Transit Searches*
 
+TrES-2b was selected in part because of prior published transit analysis:
+
+- Holman, M. J. et al. (2007), *The Transit Light Curve Project. V. System Parameters and Stellar Limb Darkening for TrES-2*
+
 The TrES-2b and XO-1b observational datasets used in this analysis were obtained from NASA exoplanet data resources.
 
 ## Project Note
